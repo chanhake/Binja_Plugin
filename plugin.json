@@ -1,0 +1,20 @@
+{
+	"pluginmetadataversion": 2,
+	"name": "Network-Plugin",
+	"type": [
+		"helper"
+	],
+	"api": [
+		"python3"
+	],
+	"description": "This plugin displays networking syscalls in binaries as well as helpful information with each syscall",
+	"longdescription": "",
+	"platforms": [
+		"Darwin",
+		"Linux",
+		"Windows"
+	],
+	"version": "0.0.1",
+	"author": "Chandler Hake <chake2019@my.fit.edu>",
+	"minimumbinaryninjaversion": 3164
+}
